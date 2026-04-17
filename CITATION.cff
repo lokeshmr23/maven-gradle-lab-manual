@@ -15,6 +15,6 @@ references:
   - type: manual
     title: "Module 2 — Jenkins CI/CD Pipeline"
     doi: 10.5281/YOUR_MODULE2_DOI
-    url: https://doi.org/10.5281/YOUR_MODULE2_DOI
+    url: https://doi.org/10.5281/19602425
 license: CC-BY-4.0
 date-released: 2026-04-15
